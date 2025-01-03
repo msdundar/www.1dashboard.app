@@ -1,4 +1,4 @@
-# www.metricy.io
+# www.1dashboard.app
 
 A dashboard for indie hackers and builders to track their metrics.
 
